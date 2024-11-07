@@ -1,27 +1,27 @@
-# Romato
+# Angularecommerce
 
-Romato: A Zomato Clone (well, not quite)
-A full stack web app that lets you create account, search restaurants, add your own restaurants, bookmark them, rate them
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
-## LiveDemo
-  [Romato Web App](https://romato.glitch.me/)
+## Development server
 
-https://user-images.githubusercontent.com/40386632/206923768-7e59c2b7-e652-41a2-9e00-d941b2438f9e.mp4
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+## Code scaffolding
 
-## Search
-  - Search restaurants by keywords
-  - Search nearby restaurants by location (or just add one and then search)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Collections
+## Build
 
- - Curated collection of top rated restaurants based on avg rating
- - Curated collection of popular restaurants based on view count
- - Curated colllection of newly opened restaurants 
- - All restaurants with pagination
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running unit tests
 
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Further help
 
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
